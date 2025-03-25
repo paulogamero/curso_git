@@ -5,3 +5,4 @@ def imprime_pares(n):
 
 if __name__ == '__main__':
     imprime_pares(10)
+    print('teste')
